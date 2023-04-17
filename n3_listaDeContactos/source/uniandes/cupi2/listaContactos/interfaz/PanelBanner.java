@@ -15,7 +15,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 
 /**
- * Panel que contiene el banner con la imagen.
+ * Panel que contiene el banner con la imagen.asdasdasd
  */
 @SuppressWarnings("serial")
 public class PanelBanner extends JPanel
